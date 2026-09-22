@@ -3,6 +3,12 @@
 </p>
 
 # ClinicFlow
+
+### Technology Snapshot
+
+**React 18 • Vite • Node.js • Express • SQLite • REST API • Geolocation • Routing**
+
+**Focus:** Clinic Operations • Queue Management • Patient Experience • Healthcare Workflow
 ## Smart Clinic Queue, Appointment & Patient-Flow Management
 
 > **From appointment to consultation — a clearer journey for patients and a smarter workflow for clinics.**
